@@ -7,7 +7,7 @@ export default function FlatCards() {
       <Text style={styles.headingText} >FlatCards</Text>
       <View>
         <View>
-          <Text>Red</Text>
+          {/* <Text>Red</Text> */}
         </View>  
       </View>
     </View>
