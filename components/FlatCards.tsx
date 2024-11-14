@@ -5,6 +5,11 @@ export default function FlatCards() {
   return (
     <View>
       <Text style={styles.headingText} >FlatCards</Text>
+      <View>
+        <View>
+          <Text>Red</Text>
+        </View>  
+      </View>
     </View>
   )
 }
@@ -14,6 +19,6 @@ const styles = StyleSheet.create({
         fontSize: 24,
         fontWeight: 'bold',
         textAlign: 'center',
-        margin: 20
+        paddingHorizontal: 10,
     }
 })
