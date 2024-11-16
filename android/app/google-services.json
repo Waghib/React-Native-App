@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214733716747",
+    "project_id": "quickaid-78142",
+    "storage_bucket": "quickaid-78142.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214733716747:android:407a8552b374bf2096b60e",
+        "android_client_info": {
+          "package_name": "com.awesome01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214733716747-ct691oi6hj9sf49rl52171fra1iuujcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA60yY-IvGMCee7EIlBs_NTRd0boyvmgM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214733716747-ct691oi6hj9sf49rl52171fra1iuujcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
