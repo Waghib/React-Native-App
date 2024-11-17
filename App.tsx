@@ -1,18 +1,16 @@
 import { View, Text, ScrollView, SafeAreaView, StyleSheet } from 'react-native'
 import React from 'react'
-import FlatCards from './components/FlatCards'
-import ElevatedCards from './components/ElevatedCards'
+import SignUpScreen from './src/screens/SignUpScreen'
+import LoginScreen from './src/screens/LoginScreen'
+// import auth from '@react-native-firebase/auth'
 
 const App = () => {
   return (
-    <SafeAreaView>
-      <ScrollView>
-        <FlatCards/>
-        <ElevatedCards/>
-      </ScrollView>
-    </SafeAreaView>
+    <View>
+      {/* <SignUpScreen/> */}
+      <LoginScreen/>
+    </View>
   )
 }
-
 
 export default App
